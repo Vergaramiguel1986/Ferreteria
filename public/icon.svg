@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <!-- Industrial Bolt / Hexagon Icon -->
+  <polygon points="256,60 410,149 410,327 256,416 102,327 102,149" stroke="#f59e0b" stroke-width="28" stroke-linejoin="round" fill="#1e293b"/>
+  <circle cx="256" cy="238" r="76" stroke="#f59e0b" stroke-width="22" fill="#0f172a"/>
+  <!-- Bolt thread ridges -->
+  <path d="M180 340 L332 340" stroke="#f59e0b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M196 385 L316 385" stroke="#f59e0b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M212 430 L300 430" stroke="#f59e0b" stroke-width="18" stroke-linecap="round"/>
+  <!-- Lightning speed accent -->
+  <path d="M260 170 L230 240 L275 240 L245 310" stroke="#38bdf8" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

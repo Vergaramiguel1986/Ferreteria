@@ -1,0 +1,6 @@
+{
+  "name": "FerreFast POS - Venta Asistida Industrial",
+  "description": "Progressive Web App (PWA) de mostrador para ferreterías industriales con búsqueda visual ultrarrápida, gestión de inflación y comanda con QR.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
